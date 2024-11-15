@@ -11,7 +11,7 @@ Este ejercicio tiene como objetivo practicar el uso de la API Fetch en JavaScrip
 3. Cuando selecciones un Pokémon y hagas clic en el botón "Obtener Información", se tendrá que mostrar la información en pantalla del Pokémon, incluyendo su nombre, imagen, tipo, altura y peso.
 
 ## Pistas y Ayudas
-- Aquí tenéis la documentación para poder encontrar el endpoint https://pokeapi.co/. Como ejemplo, si hacemos un fetch a https://pokeapi.co/api/v2/pokemon/ditto nos dará el dato de ese pokemon. Actualiza la página con la información obtenida para esos 3 pokemons. Puedes revisar y modificar este archivo según sea necesario.
+- Aquí tenéis la documentación para poder encontrar el endpoint https://pokeapi.co/. Como ejemplo, si hacemos un fetch a https://pokeapi.co/api/v2/pokemon/dittonos dará el dato de ese pokemon. Actualiza la página con la información obtenida para esos 3 pokemons. Puedes revisar y modificar este archivo según sea necesario.
 
 - Asegúrate de que el endpoint de la API de Pokémon en el archivo "script.js" sea correcto.
 
@@ -24,6 +24,6 @@ Este ejercicio tiene como objetivo practicar el uso de la API Fetch en JavaScrip
 
 ## Notas
 
-Este ejercicio es una introducción al uso de Fetch para obtener datos de una API y es una oportunidad para practicar habilidades básicas de JavaScript y CSS. Si tienes alguna pregunta o te enfrentas a problemas, no dudes en buscar en la documentación de la API Fetch y la API de Pokémon.
+Este ejercicio es una introducción al uso de Fetch para obtener datos de una API y es una oportunidad para practicar habilidades básicas de JavaScript y CSS. Si tienes alguna pregunta o te enfrentas a problemas, no dudes en buscar en la documentación d e la API Fetch y la API de Pokémon.
 
 Let´s CODE!
